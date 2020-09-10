@@ -36,3 +36,7 @@
 # 备注
 
 当时采购的商品在淘宝上已下架
+
+# 链接
+
+[关于开源咖啡生豆仓库](https://os_coffee.gitee.io/origin)
